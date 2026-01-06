@@ -831,14 +831,6 @@ public class Main {
                     }
                     else
                     {
-                        System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
-                        System.out.println("\n 20% Matched ...... ");
-                        System.out.println("\n 40% Matched .......... ");
-                        System.out.println("\n 60% Matched .............. ");
-                        System.out.println("\n 80% Matched ................. ");
-                        System.out.println("\n 100% Matched ................... \n");
-
-                        System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
 
                         String zodiacSignOfUser = ud.getZodiacSign();
                         boolean isMatched1 = IamTheMatcher.userMatchWithG1(habits,zodiacSignOfUser);
@@ -859,6 +851,15 @@ public class Main {
                         boolean isMatched16 = IamTheMatcher.userMatchWithG16(habits,zodiacSignOfUser);
                         if(isMatched1)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g1.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g1.name+" *** ------------------------------------------- \n");
@@ -874,6 +875,15 @@ public class Main {
                         }
                         else if(isMatched2)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g2.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g2.name+" *** ------------------------------------------- \n");
@@ -889,6 +899,15 @@ public class Main {
                         }
                         else if(isMatched3)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g3.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g3.name+" *** ------------------------------------------- \n");
@@ -904,6 +923,15 @@ public class Main {
                         }
                         else if(isMatched4)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g4.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g4.name+" *** ------------------------------------------- \n");
@@ -919,6 +947,15 @@ public class Main {
                         }
                         else if(isMatched5)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g5.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g5.name+" *** ------------------------------------------- \n");
@@ -934,6 +971,15 @@ public class Main {
                         }
                         else if(isMatched6)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g6.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g6.name+" *** ------------------------------------------- \n");
@@ -949,6 +995,15 @@ public class Main {
                         }
                         else if(isMatched7)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g7.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g7.name+" *** ------------------------------------------- \n");
@@ -964,6 +1019,15 @@ public class Main {
                         }
                         else if(isMatched8)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g8.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g8.name+" *** ------------------------------------------- \n");
@@ -979,6 +1043,15 @@ public class Main {
                         }
                         else if(isMatched9)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g9.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g9.name+" *** ------------------------------------------- \n");
@@ -994,6 +1067,15 @@ public class Main {
                         }
                         else if(isMatched10)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g10.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g10.name+" *** ------------------------------------------- \n");
@@ -1009,6 +1091,15 @@ public class Main {
                         }
                         else if(isMatched11)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g11.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g11.name+" *** ------------------------------------------- \n");
@@ -1024,6 +1115,15 @@ public class Main {
                         }
                         else if(isMatched12)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g12.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g12.name+" *** ------------------------------------------- \n");
@@ -1039,6 +1139,15 @@ public class Main {
                         }
                         else if(isMatched13)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g13.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g13.name+" *** ------------------------------------------- \n");
@@ -1054,6 +1163,15 @@ public class Main {
                         }
                         else if(isMatched14)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g14.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g14.name+" *** ------------------------------------------- \n");
@@ -1069,6 +1187,15 @@ public class Main {
                         }
                         else if(isMatched15)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g15.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g15.name+" *** ------------------------------------------- \n");
@@ -1084,6 +1211,15 @@ public class Main {
                         }
                         else if(isMatched16)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... ");
+                            System.out.println("\n 40% Matched .......... ");
+                            System.out.println("\n 60% Matched .............. ");
+                            System.out.println("\n 80% Matched ................. ");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+g16.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+g16.name+" *** ------------------------------------------- \n");
@@ -1098,7 +1234,7 @@ public class Main {
                             System.out.println("\n 💚💚💚💚 You can send Request to **** "+g16.name+" ****\n");
                         }
                         else {
-
+                            System.out.println("💔💔💔 Soulmate Not Found 😔😔😔");
                             System.out.println("\n💔💔💔💔💔 Atmost 40% of your profile matched with The Females Profiles - Not 100% 😔😔😔😔😔 ");
                         }
                     }
@@ -1843,14 +1979,6 @@ public class Main {
                     }
                     else
                     {
-                        System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
-                        System.out.println("\n 20% Matched ...... \n");
-                        System.out.println("\n 40% Matched .......... \n");
-                        System.out.println("\n 60% Matched .............. \n");
-                        System.out.println("\n 80% Matched ................. \n");
-                        System.out.println("\n 100% Matched ................... \n");
-
-                        System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
 
                         String zodiacSignOfUser = ud.getZodiacSign();
                         boolean isMatched1 = IamTheMatcherForMales.userMatchWithB1(habits,zodiacSignOfUser);
@@ -1871,6 +1999,15 @@ public class Main {
                         boolean isMatched16 = IamTheMatcherForMales.userMatchWithB16(habits,zodiacSignOfUser);
                         if(isMatched1)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b1.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b1.name+" *** ------------------------------------------- \n");
@@ -1886,6 +2023,15 @@ public class Main {
                         }
                         else if(isMatched2)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b2.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b2.name+" *** ------------------------------------------- \n");
@@ -1901,6 +2047,15 @@ public class Main {
                         }
                         else if(isMatched3)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b3.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b3.name+" *** ------------------------------------------- \n");
@@ -1916,6 +2071,15 @@ public class Main {
                         }
                         else if(isMatched4)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b4.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b4.name+" *** ------------------------------------------- \n");
@@ -1931,6 +2095,15 @@ public class Main {
                         }
                         else if(isMatched5)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b5.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b5.name+" *** ------------------------------------------- \n");
@@ -1946,6 +2119,15 @@ public class Main {
                         }
                         else if(isMatched6)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b6.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b6.name+" *** ------------------------------------------- \n");
@@ -1961,6 +2143,15 @@ public class Main {
                         }
                         else if(isMatched7)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b7.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b7.name+" *** ------------------------------------------- \n");
@@ -1976,6 +2167,15 @@ public class Main {
                         }
                         else if(isMatched8)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b8.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b8.name+" *** ------------------------------------------- \n");
@@ -1991,6 +2191,15 @@ public class Main {
                         }
                         else if(isMatched9)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b9.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b9.name+" *** ------------------------------------------- \n");
@@ -2006,6 +2215,15 @@ public class Main {
                         }
                         else if(isMatched10)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b10.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b10.name+" *** ------------------------------------------- \n");
@@ -2021,6 +2239,15 @@ public class Main {
                         }
                         else if(isMatched11)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b11.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b11.name+" *** ------------------------------------------- \n");
@@ -2036,6 +2263,15 @@ public class Main {
                         }
                         else if(isMatched12)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b12.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b12.name+" *** ------------------------------------------- \n");
@@ -2051,6 +2287,15 @@ public class Main {
                         }
                         else if(isMatched13)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b13.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b13.name+" *** ------------------------------------------- \n");
@@ -2066,6 +2311,15 @@ public class Main {
                         }
                         else if(isMatched14)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b14.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b14.name+" *** ------------------------------------------- \n");
@@ -2081,6 +2335,15 @@ public class Main {
                         }
                         else if(isMatched15)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b15.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b15.name+" *** ------------------------------------------- \n");
@@ -2096,6 +2359,15 @@ public class Main {
                         }
                         else if(isMatched16)
                         {
+                            System.out.println("\n🔃🔃🔃🔃 Matching Your Profile..........\n");
+                            System.out.println("\n 20% Matched ...... \n");
+                            System.out.println("\n 40% Matched .......... \n");
+                            System.out.println("\n 60% Matched .............. \n");
+                            System.out.println("\n 80% Matched ................. \n");
+                            System.out.println("\n 100% Matched ................... \n");
+
+                            System.out.println("💖💖💖💖 Below is your Soulmate's Detailed information 👇👇👇👇");
+
                             System.out.println("\n💘💘💘💘 Congratulation profile successfully matched with "+b16.name+ " 🤩🤩🤩🥰🥰💖💖");
 
                             System.out.println("\n------------------------ Look below for more Details about - *** "+b16.name+" *** ------------------------------------------- \n");
@@ -2110,6 +2382,7 @@ public class Main {
                             System.out.println("\n 💚💚💚💚 You can send Request to **** "+b16.name+" ****\n");
                         }
                         else {
+                            System.out.println("💔💔💔 Soulmate Not Found 😔😔😔");
                             System.out.println("\n💔💔💔💔💔 Atmost 41% of your profile matched with The Males Profiles - Not 100% 😔😔😔😔😔 ");
                         }
                     }
